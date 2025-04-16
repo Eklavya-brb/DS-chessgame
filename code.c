@@ -172,8 +172,8 @@ void freeMoveHistory() {
 void showDeveloperInfo() {
     printf("\n--- Developer Information ---\n");
     printf("Project: Text-based 2-player Chess Game in C\n");
-    printf("Developed by: Eklavya Kuldiya\n");
-    printf("UID: 24BCD10041\n");
+    printf("Developed by: Eklavya\n");
+    printf("UID: anon\n");
     printf("Data Structures Used: Linked List\n");
 }
 
